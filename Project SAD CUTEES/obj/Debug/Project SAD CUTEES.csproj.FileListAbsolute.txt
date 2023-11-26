@@ -1,0 +1,16 @@
+C:\Users\edwar\source\repos\Project SAD CUTEES\bin\Debug\Project SAD CUTEES.exe.config
+C:\Users\edwar\source\repos\Project SAD CUTEES\bin\Debug\Project SAD CUTEES.exe
+C:\Users\edwar\source\repos\Project SAD CUTEES\bin\Debug\Project SAD CUTEES.pdb
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project SAD CUTEES.csproj.AssemblyReference.cache
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project SAD CUTEES.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project_SAD_CUTEES.Form1.resources
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project_SAD_CUTEES.Properties.Resources.resources
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project SAD CUTEES.csproj.GenerateResource.cache
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project SAD CUTEES.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project SAD CUTEES.exe
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project SAD CUTEES.pdb
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project_SAD_CUTEES.Form_Sign_Up.resources
+C:\Users\edwar\source\repos\Project SAD CUTEES\bin\Debug\Guna.UI2.dll
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project SAD CUTEES.csproj.CopyComplete
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project_SAD_CUTEES.Form_Home.resources
+C:\Users\edwar\source\repos\Project SAD CUTEES\obj\Debug\Project_SAD_CUTEES.Form_Profile.resources
